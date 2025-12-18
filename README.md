@@ -7,7 +7,7 @@ Official Page for SteerVLM [EMNLP2025].
 
 Visit our project website for more details: [SteerVLM Website](https://22anushka.github.io/emnlp-2025/)  
 
-[**arxiv**](https://arxiv.org/pdf/2510.26769) | [**🎥 Video:**](https://drive.google.com/file/d/1_T4voPg_Xdye6rvJk8PZK3iX6I3cZYt_/view)  | [**📊 Poster:**](https://drive.google.com/file/d/1qOkktvyQ6kGOfI3wmRBtH12kDpv7I7Qt/view) | 
+[📄**arxiv**](https://arxiv.org/pdf/2510.26769) | [**🎥 Video:**](https://drive.google.com/file/d/1_T4voPg_Xdye6rvJk8PZK3iX6I3cZYt_/view)  | [**📊 Poster:**](https://drive.google.com/file/d/1qOkktvyQ6kGOfI3wmRBtH12kDpv7I7Qt/view) | 
 
 ## 🧰 Repository Structure
 ```
