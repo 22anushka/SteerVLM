@@ -1,3 +1,4 @@
 [submodule "external"]
 	path = external
-	url = https://github.com/haotian-liu/LLaVA.git
+	url = https://github.com/22anushka/LLaVA.git
+	branch = steervlm
